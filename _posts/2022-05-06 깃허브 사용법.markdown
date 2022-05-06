@@ -45,19 +45,20 @@ Commit으로 업데이트 할 파일을 확정한 뒤, 원격 저장소에 반�
 
 레파지토리 생성 버트는 곳곳에 숨어있다. repository new 를 누르면 다 괜찮고 상단 프로필 + 버튼을 눌러도 바로가기 키가 있다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled.png)
+![image](https://user-images.githubusercontent.com/55439985/167068588-eff76762-2fbc-472a-8845-abf5c7154d47.png)
+![image](https://user-images.githubusercontent.com/55439985/167068605-ef4d2642-8520-4cf3-bc59-b718ff506642.png)
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%201.png)
 
 readme 는 이 오픈 코드가 무엇인지 설명해주는 파일로 가능한 체크해주면 좋다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%202.png)
+![image](https://user-images.githubusercontent.com/55439985/167068623-7033ca31-590d-4537-9e4e-c6b69a70c4de.png)
+
 
 create reposigitory 클릭 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%203.png)
+![image](https://user-images.githubusercontent.com/55439985/167068645-a48f5e03-491c-410e-b14e-470899f55ca3.png)
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%204.png)
+![image](https://user-images.githubusercontent.com/55439985/167068663-66e21fd4-a791-4f0c-8c57-91d80b88a839.png)
 
 settings 누르면 설정 변경 가능 , 이름 변경도 가능하다. 
 
@@ -65,11 +66,11 @@ settings 누르면 설정 변경 가능 , 이름 변경도 가능하다.
 
 가입하고 나면 GUI에서 아주 간편하게 작업이 가능하다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%205.png)
+![image](https://user-images.githubusercontent.com/55439985/167068676-75b64dd4-78fc-4fe6-a8da-a2c15996f090.png)
 
 레파지토리를 연결하기 위해 깃(git)을 사용할 경로와 폴더를 만든다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%206.png)
+![image](https://user-images.githubusercontent.com/55439985/167068687-994e4b15-a657-489d-b934-33e07eeb5200.png)
 
 ```python
 >> cd c 
@@ -80,12 +81,11 @@ c:\
 >>PS C:\git\git_sign_test> dir 
 ```
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%207.png)
+![image](https://user-images.githubusercontent.com/55439985/167068701-e98a3090-2907-4be5-9499-83a75a1b9bef.png)
 
 보기 > 표시 > 숨긴항목표시 체크해야 .git 폴더가 보인다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%208.png)
-
+![image](https://user-images.githubusercontent.com/55439985/167068717-08a469cf-f0a4-4928-95ec-cf9b4a3145c2.png)
 이게 없으면 init 이 있어야 하는데, 클론을 먼저하면 init을 안해도 된다. 그래서 순서상 레파지토리 먼저 만들고 클론 생성하면 된다. 인잇을 하게 되면 명령어가 먹지 안흔다. 
 
 인잇 따로 작업하는 것보다 이게 훨씬 편하다. 
@@ -114,11 +114,13 @@ vs code 나 사용하는 편한 코드 에디터로 들어가서 방금 생성�
 
 html 기본 코드를 생성하는 단축키는 ! 다  파일명은 편하게 index.html 로 했다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%209.png)
+![image](https://user-images.githubusercontent.com/55439985/167068734-1483f3ca-4684-4261-93e0-b3484a1c98b2.png)
+
 
 cmd 창에서 dir 를 입력하면 html 파일이 잘 만들어 진것을 볼 수 있다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2010.png)
+![image](https://user-images.githubusercontent.com/55439985/167068744-7f196b96-caff-4595-b1d2-dad2581367b9.png)
+
 
 본격적으로 html 폴더를 레포지터리에 연동해보자. 
 
@@ -149,7 +151,7 @@ PS C:\git\git_sign_test> git push origin main
 
 이거 하고나면 깃이랑 깃허브랑 연동시키라는 팝업이 뜬다. 연동하겠다고 체크하면 연동되고 코드가 잘 먹힌다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2011.png)
+![image](https://user-images.githubusercontent.com/55439985/167068761-db33ffbe-0f4f-4733-a039-a0f1078d6591.png)
 
 index.html이 잘 들어갔다. 
 
@@ -171,20 +173,23 @@ PS C:\git\git_sign_test> git branch sub1
 PS C:\git\git_sign_test> git checkout sub1
 ```
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2012.png)
+![image](https://user-images.githubusercontent.com/55439985/167068786-8ce1f9a1-8018-4bee-9c98-26e6220ac4f3.png)
+
 
 다시한번 git branch 를 입력하면 * 표시가 sub1 으로 옮겨진 것을 확인할 수 있다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2013.png)
+![image](https://user-images.githubusercontent.com/55439985/167068802-71a6733b-38ba-4efb-8a78-17e751a14ab3.png)
+
 
 ```python
 PS C:\git\git_sign_test> git add sub_page.html
 PS C:\git\git_sign_test> git commit -m "second commit"
 ```
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2014.png)
+![image](https://user-images.githubusercontent.com/55439985/167068860-ae858427-fa4a-4c28-809d-234249d98634.png)
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2015.png)
+
+![image](https://user-images.githubusercontent.com/55439985/167068877-de26a05a-ad85-4d71-888b-63812a6da838.png)
 
 commit 할때 작성한 “second commit” 라는 것은 파일 옆에 붙는 각주같은 메세지다. 말하자면 메타데이터를 생성해주는 목적으로 사용하면 된다. 블록체인 같은 곳에선 중요하게 여겨진다. 쓰기 나름. 
 
@@ -192,13 +197,13 @@ commit 할때 작성한 “second commit” 라는 것은 파일 옆에 붙는 �
 PS C:\git\git_sign_test> git push origin sub1
 ```
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2016.png)
+![image](https://user-images.githubusercontent.com/55439985/167068889-46afee59-18d7-439b-83a8-2d931254e684.png)
+
 
 main 에는 여전히 html 파일이 올라오지 않았지만  sub1 이라는 branch를 눌러서 옮기면 sub_page.html 이 들어와 있음을 확인할 수 있다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2017.png)
-
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2018.png)
+![image](https://user-images.githubusercontent.com/55439985/167068895-e91c2ce4-8b54-422d-849e-146d678a063e.png)
+![image](https://user-images.githubusercontent.com/55439985/167068904-6e9991c5-1b83-498b-81ac-50ba9f7d94b2.png)
 
 main 에는 없고 branch에만 sub1이 들어왔다. 이런 식으로 버전관리를 할 수 있다. 
 
@@ -209,7 +214,7 @@ main하나 만들어두고 branch에 여러 개발자들이 각자의 브랜치�
 
 그래서 브렌치를 만들어서 각자 작업하고 main 관리자에게 “나 작업 끝났어요.” 라고 해서 브랜치 작업을 합칠 수 있다.  
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2019.png)
+![image](https://user-images.githubusercontent.com/55439985/167068920-53fe8a85-cf2f-4960-bb44-4cfcecc0c056.png)
 
 ```python
 PS C:\git\git_sign_test> git checkout main
@@ -234,7 +239,7 @@ To https://github.com/arsen1013/git_sign_test
 
 main과 branch를 비교해서 바뀐점을 찾아 그것을 반영해주는 작업을 진행한다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2020.png)
+![image](https://user-images.githubusercontent.com/55439985/167068946-0d3a0260-766d-49ff-8073-5de21d5c6d0e.png)
 
 main에도 파일이 들어가있다. 
 
@@ -245,8 +250,7 @@ PS C:\git\git_sign_test> git branch -d sub1
 
 ```
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2021.png)
-
+![image](https://user-images.githubusercontent.com/55439985/167068960-905420e9-98bd-4980-987c-fdc1172175cc.png)
 깃의 branch 에서 사라진 것을 확인할 수 있다. 하지만 그렇다고 github 에서 사라진 것은 아니다. 
 
 깃허브에서도 지워주고 싶으면 origin 안에서 delete 명령어를 써줘야 한다. 
@@ -255,7 +259,7 @@ PS C:\git\git_sign_test> git branch -d sub1
 PS C:\git\git_sign_test> git push origin --delete sub1
 ```
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2022.png)
+![image](https://user-images.githubusercontent.com/55439985/167068985-f53d19bc-9c3d-4435-81ad-dadf2d7752d3.png)
 
 sub1 이 사라진 것을 확인할 수 있다. 
 
@@ -267,11 +271,11 @@ sub1 이 사라진 것을 확인할 수 있다.
 
 깃허브 데스크탑에서 클론한 코드를 열었다면 그 코드가 있는 경로의 코드를 수정해서 commit 해야한다.  
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2023.png)
+![image](https://user-images.githubusercontent.com/55439985/167069016-58966307-0dab-41a9-995d-09804fc911aa.png)
 
 옆에서 만든 폴더 눌러서 clone 까지 누르면 된다. 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2024.png)
+![image](https://user-images.githubusercontent.com/55439985/167069031-1760b5a1-2468-4b0e-9e4d-f940e1cd025f.png)
 
 저 화면에서 
 
@@ -281,7 +285,7 @@ view on GitHub 를 누르면 바로 연결된다.
 
 레파지토리를 연결하고 싶으면 
 
-![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2025.png)
+![image](https://user-images.githubusercontent.com/55439985/167069056-f10c218c-b480-4ff7-8517-6b372122e452.png)
 
 ![Untitled](%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3(github)%209cfa52ad3ee444e7a0ecb7db77fdf141/Untitled%2026.png)
 
