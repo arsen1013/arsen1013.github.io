@@ -1,15 +1,14 @@
 ﻿---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "깃허브 명령어 모음"
 date:   2022-05-06 10:27:42 +0900
-categories: jekyll update
+categories: arsen git
 ---
 
 # 1. git 명령어 모음
 
-  ![testimage](C:\apps\ml\arsen1013.github.io\2022-05-06.png)
+![test](https://user-images.githubusercontent.com/55439985/167057000-b4a1a637-9065-4817-a0f9-347dbcd4c09c.png)
 
-  ![testpng]("C:\apps\ml\arsen1013.github.io\test.png")
 
 ### **Git 설치 (for ubuntu)
 
