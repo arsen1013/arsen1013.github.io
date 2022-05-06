@@ -48,7 +48,7 @@ categories: arsen git
 <추가 및 확정(commit)>
 
 **$ git add <파일명>**  
-**$ git add ***
+<!-- **$ git add ** -->
 
 커밋에 단일 파일의 변경 사항을 포함  
 (인덱스에 추가된 상태)
